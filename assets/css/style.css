@@ -143,6 +143,7 @@ hr {
     width: 100%;
     margin: 5px 0;
 }
+
 .left-about-heading {
     width: 60%;
     float: right;
@@ -173,7 +174,7 @@ hr {
     font-size: 280%;
 }
 
-#circle-container  {
+#circle-container {
     width: 300px;
     height: 300px;
     padding: 30px;
@@ -187,4 +188,16 @@ hr {
     background: url('../images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+}
+
+/* event times */
+
+#times {
+    background-image: url('../images/dublin-city.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    width: 100%;
+
 }
